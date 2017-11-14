@@ -1,0 +1,188 @@
+body{
+	background-color: #CCCCCC;
+}
+
+.page {
+	width: 780px;
+	margin: auto;
+	font-size: 16px;
+	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+	padding: 40px;
+	border: 5px solid#3388CC;
+	border-radius: 10px;
+	box-shadow: 2px 4px 3px black;
+	background-color: #FFFFFF;	
+}
+
+.infophoto {
+	height: 250px;
+}
+
+.info {
+	float: left;
+}
+
+.photo {
+	float: right;
+}
+
+.section {
+	margin-bottom: 70px;
+}
+
+.sec-gauche {
+	float: left;
+}
+
+.sec-droite {
+	margin-left: 150px;
+}
+
+strong {
+	font-size: 26px;
+}
+
+.section {
+	margin-bottom: 70px;
+	text-align: justify;
+}
+
+h2 {
+	font-size: 28px;
+	color: #3388BB;
+	text-transform: uppercase;
+	border-bottom: 3px solid #3388BB;
+}
+
+.sec-gauche {
+	float: left;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.durée {
+	font-weight: normal;
+	font-style: italic;
+	font-size: 16px;
+}
+
+.sec-droite {
+	margin-left: 150px;
+	margin-top: 37px;
+}
+
+.titre {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+	border-radius: 10px;
+}
+
+#p1 {
+	position: relative;
+	margin-top: 42px;
+}
+
+#p1b {
+	position: relative;
+}
+
+#p2 {
+	position: relative;
+	margin-top: 18px;
+}
+
+#p2b {
+	position: relative;
+	margin-top: 36px;
+}
+
+#p3 {
+	position: relative;
+}
+
+#p3b {
+	position: relative;
+	margin-top: 59px;
+}
+
+#p4 {
+	position: relative;
+	margin-top: 42px;
+}
+
+#p4b {
+	position: relative;
+}
+
+#p5{
+	position: relative;
+}
+
+#p5b {
+	position: relative;
+	margin-top: 35px;
+}
+
+#p6 {
+	position: relative;
+	margin-top: 20px;
+}
+
+#p6b {
+	position: relative;
+}
+
+#p7 {
+	position: relative;
+	margin-top: 47px;
+}
+
+#p7b {
+	position: relative;
+}
+
+#p7bi {
+	position: relative;
+}
+
+#p7bir {
+	position: relative;
+	margin-top: 25px;
+}
+
+#p8 {
+	position: relative;
+	margin-top: 25px;
+}
+
+#p8b {
+	position: relative;
+}
+
+#p9 {
+	position: relative;
+	margin-top: 26px;
+}
+
+#p9b {
+	position: relative;
+}
+
+#p10 {
+	position: relative;
+	margin-top: 45px;
+}
+
+#p11 {
+	position: relative;
+	margin-top: 20px;
+}
+
+#p12 {
+	position: relative;
+}
